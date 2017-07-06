@@ -9,7 +9,7 @@ See the [demo](http://suven.github.io/ember-cli-swiper/) for examples and usage-
 
 Make sure you are using a somewhat recent version of nodejs when installing. Everything > 4 should be fine.
 
-`ember install git+ssh://git@github.com:Matt-Jensen/ember-cli-swiper.git#latest`
+`ember install https://github.com/Matt-Jensen/ember-cli-swiper.git#latest`
 
 ## Usage
 
