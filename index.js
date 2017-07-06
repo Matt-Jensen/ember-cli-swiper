@@ -6,7 +6,7 @@ var Funnel = require('broccoli-funnel');
 var mergeTrees = require('broccoli-merge-trees');
 
 module.exports = {
-  name: 'ember-cli-swiper',
+  name: 'ember-cli-swiper-tmp',
 
   treeForVendor: function(defaultTree) {
     var trees = [];

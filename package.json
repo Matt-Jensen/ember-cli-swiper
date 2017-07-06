@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-swiper",
-  "version": "0.6.0",
-  "description": "Enables touchfriendly, swipeable, carousel-like slides through nolimits4web/Swiper",
+  "name": "ember-cli-swiper-tmp",
+  "version": "0.7.0",
+  "description": "Temporary fork of ember-cli-swiper. Use at your own risk. Enables touchfriendly, swipeable, carousel-like slides through nolimits4web/Swiper",
   "directories": {
     "doc": "doc",
     "test": "tests"

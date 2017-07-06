@@ -1,5 +1,6 @@
-# Ember-cli-swiper [![Build Status](https://travis-ci.org/Suven/ember-cli-swiper.svg?branch=master)](https://travis-ci.org/Suven/ember-cli-swiper) [![Ember Observer Score](https://emberobserver.com/badges/ember-cli-swiper.svg)](https://emberobserver.com/addons/ember-cli-swiper) [![Code Climate](https://codeclimate.com/github/Suven/ember-cli-swiper/badges/gpa.svg)](https://codeclimate.com/github/Suven/ember-cli-swiper)
+# Ember-cli-swiper-tmp
 
+Temporary fork of ember-cli-swiper. Use at your own risk.
 Simple ember-wrapper around [Swiper by idangerous](http://idangero.us/swiper/demos/).
 
 See the [demo](http://suven.github.io/ember-cli-swiper/) for examples and usage-infos.
@@ -8,7 +9,7 @@ See the [demo](http://suven.github.io/ember-cli-swiper/) for examples and usage-
 
 Make sure you are using a somewhat recent version of nodejs when installing. Everything > 4 should be fine.
 
-`ember install ember-cli-swiper`
+`ember install git+ssh://git@github.com:Matt-Jensen/ember-cli-swiper.git#latest`
 
 ## Usage
 
