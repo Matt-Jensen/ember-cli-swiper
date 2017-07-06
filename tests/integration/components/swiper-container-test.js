@@ -87,3 +87,8 @@ test('it destroies the Swiper instance when the component element destroied', fu
     this.set('active', false);
   });
 });
+
+test('it yields a slide component', function(assert) {
+  this.render(hbs`{{#swiper-container as |container|}}{{container.slide}}{{/swiper-container}}`);
+  assert.equal(this.$('.swiper-slide').length, 1, 'renders a single slide');
+});
